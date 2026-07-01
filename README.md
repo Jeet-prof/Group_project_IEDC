@@ -13,7 +13,6 @@ This project extracts text from images using EasyOCR, then generates a summarize
 - EasyOCR
 - OpenCV
 - Pillow
-- PyMuPDF
 - Transformers
 - Torch
 
